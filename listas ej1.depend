@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600840889 source:c:\users\mauro\desktop\c\listas ej1\main.c
+	<stdio.h>
+	<stdlib.h>
+
